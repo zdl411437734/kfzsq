@@ -13,5 +13,7 @@
 
 贡献者名单: https://github.com/zdl411437734/kfzsq/graphs/contributors
 
-扫一扫关注公众号:
+扫一扫关注公众号:(每周或者每天都有文章推送给大家)
+
 ![公众号](./imgs/kfzsq_wx.jpg)
+
