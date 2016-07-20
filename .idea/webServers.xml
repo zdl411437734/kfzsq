@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba92d040-58f0-4697-b494-f89ea794cd18" name="kfzsq" url="http://ht5.etongwl.com/kfzsq">
+        <fileTransfer host="115.159.40.176" port="22" privateKey="$PROJECT_DIR$/../../../411437734" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
